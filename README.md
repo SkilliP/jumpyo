@@ -1,6 +1,6 @@
 ## JUMPYO!!!
 
-This is a tiny project that i am making to practice raylib.
+This is a tiny project that i am making to practice [raylib](https://www.raylib.com/).
 
 #### TO DO
  - [ ] Better collisions
